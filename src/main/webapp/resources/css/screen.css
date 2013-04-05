@@ -1,0 +1,15 @@
+.cell {
+  margin: 10px;
+  float: left;
+  width: 400px;
+  height: 500px;
+  border: 1px black solid;
+  padding: 5px;
+}
+
+.photo {
+  height: 300px;
+  overflow: hidden;
+  border: 1px silver solid;
+  margin: 2px;
+}
